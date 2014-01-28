@@ -35,7 +35,7 @@ $dvd_titles = $statement->fetchAll(PDO::FETCH_OBJ);
 
 <?php if(empty($dvd_titles)) : ?>
     <h1 align="center" style="color: blueviolet">There are no results by that search</h1>
-    <a href="/Search_example/search.php">Back to Search</a>
+    <a href="/Assignment1/search.php">Back to Search</a>
 
 <?php else : ?>
 
