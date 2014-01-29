@@ -38,9 +38,8 @@ $dvd_titles = $statement->fetchAll(PDO::FETCH_OBJ);
     <a href="/Assignment1/search.php">Back to Search</a>
 
 <?php else : ?>
-
 <h1 align = "center" style="color: blueviolet"> Search Results </h1>
-<table border="10" style="font-family: helvetica">
+<table border="10" align ="center"  style="font-family: helvetica" cellspacing="10">
  <tr>
      <th style="color: blue">Title</th>
      <th style="color: blue">Genre</th>
