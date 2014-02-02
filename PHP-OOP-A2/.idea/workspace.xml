@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f65889d-3a71-471a-928d-5dd6fda41a5e" name="Default" comment="" />
+    <ignored path="PHP-OOP-A2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PHP-OOP-A2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="add-song.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/add-song.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="50" selection-start="744" selection-end="744" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="630">
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#2;n#form#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="2" selection-start="158" selection-end="158" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenreQuery.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classes/GenreQuery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="2" selection-start="397" selection-end="397" vertical-scroll-proportion="0.4390244" vertical-offset="0" max-vertical-offset="820">
+              <folding>
+                <marker date="1391319473000" expanded="true" signature="177:213" placeholder="SELECT genre..genres..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArtistQuery.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/ArtistQuery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="47" selection-start="281" selection-end="281" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="465">
+              <folding>
+                <marker date="1391319360000" expanded="true" signature="178:221" placeholder="SELECT artis..artists..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArtistMenu.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/ArtistMenu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="330" selection-end="330" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="600">
+              <folding>
+                <marker date="1391364588000" expanded="true" signature="368:449" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenreMenu.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/GenreMenu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="13" selection-start="314" selection-end="314" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="540">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add-song-process.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/add-song-process.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="2" selection-start="257" selection-end="257" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Song.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/Song.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="24" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="795">
+              <folding>
+                <marker date="1391319209000" expanded="true" signature="694:768" placeholder="INSERT INTO ..." />
+                <marker date="1391319209000" expanded="true" signature="694:713" placeholder="INSERT INTO ..." />
+                <marker date="1391319209000" expanded="true" signature="694:836" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/db.php" />
+        <option value="$PROJECT_DIR$/add-song-process.php" />
+        <option value="$PROJECT_DIR$/classes/Song.php" />
+        <option value="$PROJECT_DIR$/classes/ArtistQuery.php" />
+        <option value="$PROJECT_DIR$/classes/GenreQuery.php" />
+        <option value="$PROJECT_DIR$/add-song.php" />
+        <option value="$PROJECT_DIR$/classes/ArtistMenu.php" />
+        <option value="$PROJECT_DIR$/classes/GenreMenu.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="840" />
+    <option name="y" value="22" />
+    <option name="width" value="840" />
+    <option name="height" value="964" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-OOP-A2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-OOP-A2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-OOP-A2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-OOP-A2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-OOP-A2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f65889d-3a71-471a-928d-5dd6fda41a5e" name="Default" comment="" />
+      <created>1391305407332</created>
+      <updated>1391305407332</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="840" y="22" width="840" height="964" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/add-song.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="10" selection-start="751" selection-end="751" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#2;n#form#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="41" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/GenreQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="450">
+          <folding>
+            <marker date="1391319473000" expanded="true" signature="177:213" placeholder="SELECT genre..genres..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/ArtistQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="465">
+          <folding>
+            <marker date="1391319360000" expanded="true" signature="178:221" placeholder="SELECT artis..artists..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/ArtistMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="15" selection-start="497" selection-end="516" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="570">
+          <folding>
+            <marker date="1391364588000" expanded="true" signature="368:449" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/GenreMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="16" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-song-process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Song.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="24" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="795">
+          <folding>
+            <marker date="1391319209000" expanded="true" signature="694:768" placeholder="INSERT INTO ..." />
+            <marker date="1391319209000" expanded="true" signature="694:713" placeholder="INSERT INTO ..." />
+            <marker date="1391319209000" expanded="true" signature="694:836" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Song.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="24" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="795">
+          <folding>
+            <marker date="1391319209000" expanded="true" signature="694:768" placeholder="INSERT INTO ..." />
+            <marker date="1391319209000" expanded="true" signature="694:713" placeholder="INSERT INTO ..." />
+            <marker date="1391319209000" expanded="true" signature="694:836" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-song-process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="257" selection-end="257" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/ArtistMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="330" selection-end="330" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="600">
+          <folding>
+            <marker date="1391364588000" expanded="true" signature="368:449" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/ArtistQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="47" selection-start="281" selection-end="281" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="465">
+          <folding>
+            <marker date="1391319360000" expanded="true" signature="178:221" placeholder="SELECT artis..artists..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="2" selection-start="158" selection-end="158" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-song.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="50" selection-start="744" selection-end="744" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="630">
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#2;n#form#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/GenreMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="314" selection-end="314" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/GenreQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="2" selection-start="397" selection-end="397" vertical-scroll-proportion="0.4390244" vertical-offset="0" max-vertical-offset="820">
+          <folding>
+            <marker date="1391319473000" expanded="true" signature="177:213" placeholder="SELECT genre..genres..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
