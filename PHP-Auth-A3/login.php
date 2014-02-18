@@ -1,10 +1,10 @@
-<br>
 <?php
 require __DIR__ . '/vendor/autoload.php';
 
 use \Symfony\Component\HttpFoundation\Session\Session;
 
 $session = new Session();
+
 if($session->get('status') == 'badLogin'){
     $flash = $session->getFlashBag()->get('statusMessage');
 
@@ -18,6 +18,7 @@ if($session->get('status') == 'badLogin'){
     $session->clear();
 
 }
+
 ?>
 
 

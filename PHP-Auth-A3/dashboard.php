@@ -1,4 +1,3 @@
-
 <?php
 require __DIR__ . '/vendor/autoload.php';
 
@@ -9,8 +8,8 @@ use \Symfony\Component\HttpFoundation\RedirectResponse;
 use \Carbon\Carbon;
 
     $session = new Session();
-    $nowTime =  Carbon:: now();
-    $lastTime =  new Carbon($session->get('time'));
+    $nowTime =  Carbon:: now(new DateTimeZone('Europe/London'));
+    $lastTime =  new Carbon($session->get('time'),new DateTimeZone('Europe/London') );
     $string;
     if ($nowTime->diffInSeconds($lastTime) < 60){
         $string = "Last Login: " .+ $nowTime->diffInSeconds($lastTime);
