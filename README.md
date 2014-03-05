@@ -1,5 +1,5 @@
 ITP-499
 =======
-For A3 Auth, please do
+To Run please do
 
 composer update
